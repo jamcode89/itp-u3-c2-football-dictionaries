@@ -21,15 +21,15 @@ Example:
 ```python
 SQUADS_DATA = [
   [
-    "1",                                     # Number
-    "GK",                                    # Position
-    "Juan Botasso",                          # Name
-    "(1908-10-23)23 October 1908 (aged 21)", # Date of Birth
-    "",                                      # Caps
-    "Quilmes",                               # Club
-    "Argentina",                             # Country (Players Country)
-    "Argentina",                             # Club Country
-    "1930"                                   # Year
+    "1",                                     # Number0
+    "GK",                                    # Position1
+    "Juan Botasso",                          # Name2
+    "(1908-10-23)23 October 1908 (aged 21)", # Date of Birth3
+    "",                                      # Caps4
+    "Quilmes",                               # Club5
+    "Argentina",                             # Country (Players Country)6
+    "Argentina",                             # Club Country7
+    "1930"                                   # Year8
   ],
   [
     "9",
